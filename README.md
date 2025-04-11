@@ -11,9 +11,9 @@
 
 - ⚡ Fun fact **I have lived in five different states in Brazil**
 
--  🎯 Goals: Speak english fluently and travel around the world with my family 🚀
+-  🎯 Goals: Become fluent in English and travel the world with my family 🚀
 
--  🚴‍♀️ I love riding a bike
+-  🚴‍♀️ In my free time, you'll probably find me riding my bike and enjoying the outdoors
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
