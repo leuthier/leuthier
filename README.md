@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Leuthier</h1>
-<h3 align="center">A passionate QA / Test Specialist from Brazil 🇧🇷</h3>
+<h3 align="center">Software Tester from Brazil :brazil:</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=leuthier&label=Profile%20views&color=0e75b6&style=flat" alt="leuthier" />
@@ -8,10 +8,6 @@
 - 🔭 I’m currently working on **Encora**
 
 - 📚 I’m currently learning **Javascript and Test Automation**
-
-- ⚡ Fun fact **I have lived in five different states in Brazil**
-
--  🎯 Goals: Become fluent in English and travel the world with my family 🚀
 
 -  🚴‍♀️ In my free time, you'll probably find me riding my bike and enjoying the outdoors
 
